@@ -1,0 +1,5 @@
+/Users/student/Desktop/OnlineStoreCopy/online-store/test/OnlineStore.UnitTests/obj/Debug/net7.0/OnlineStore.UnitTests.csproj.AssemblyReference.cache
+/Users/student/Desktop/OnlineStoreCopy/online-store/test/OnlineStore.UnitTests/obj/Debug/net7.0/OnlineStore.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/student/Desktop/OnlineStoreCopy/online-store/test/OnlineStore.UnitTests/obj/Debug/net7.0/OnlineStore.UnitTests.AssemblyInfoInputs.cache
+/Users/student/Desktop/OnlineStoreCopy/online-store/test/OnlineStore.UnitTests/obj/Debug/net7.0/OnlineStore.UnitTests.AssemblyInfo.cs
+/Users/student/Desktop/OnlineStoreCopy/online-store/test/OnlineStore.UnitTests/obj/Debug/net7.0/OnlineStore.UnitTests.csproj.CoreCompileInputs.cache
